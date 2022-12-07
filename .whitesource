@@ -4,8 +4,8 @@
     "configExternalURL": "",    
     "projectToken": "",
     "baseBranches": [],
-    "enableIaC": "true",
-    "enableLicenseViolations": "true"    
+    "enableLicenseViolations": "true",
+    "enableIaC": "true"
   },
    "scanSettingsSAST": {
     "enableScan": "true"
